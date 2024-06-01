@@ -50,8 +50,10 @@ Analysis for the visualzations and conclusions are in .pptx [file](https://githu
 
 - British Columbia and Ontario have experienced more moderate increases in rent over the same period, with growth rates ranging from 2.8% to 6% per year. Despite the moderate increase, these provinces continue to have some of the highest average rent prices in the country. The factors influencing this could be higher net Migration and Mortgage rates.
 
-- Within Ontario average rents have been consistently increasing with Toronto being at the highest over the period of 2018-2022 only exception being constant during 2020-2021. We are assuming this to be the effect of Covid pandemic![Ontario](/Plots_and_summary/Rimple_box%20plots%20and%20linear%20regression/Line%20graphs/Average%20Rents%20trend%20Ont..png).
+- Within Ontario average rents have been consistently increasing with Toronto being at the highest over the period of 2018-2022 only exception being constant during 2020-2021. We are assuming this to be the effect of Covid pandemic
+  ![Ontario](/Plots_and_summary/Rimple_box%20plots%20and%20linear%20regression/Line%20graphs/Average%20Rents%20trend%20Ont..png).
 
-- Vacancy Rates and Average rents have mild negative correlation. We cannot conclude with certainty that increase in one of them has significant impact on another. For better visualization we need to remove the outliers from our datasets![LR](/Plots_and_summary/Rimple_box%20plots%20and%20linear%20regression/Linear%20and%20scatter%20plots/Linear%20regression%20Plot%20-%20%20Average%20Rents%20vs%20Vacancy%20Rates%20(%20Central%20Toronto).png).
+- Vacancy Rates and Average rents have mild negative correlation. We cannot conclude with certainty that increase in one of them has significant impact on another. For better visualization we need to remove the outliers from our datasets
+  ![LR](/Plots_and_summary/Rimple_box%20plots%20and%20linear%20regression/Linear%20and%20scatter%20plots/Linear%20regression%20Plot%20-%20%20Average%20Rents%20vs%20Vacancy%20Rates%20(%20Central%20Toronto).png).
 
 
